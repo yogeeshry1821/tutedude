@@ -1,0 +1,105 @@
+.dhiraj-saxsena {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: var(--font-size-base);
+}
+.sep-20222 {
+  position: absolute;
+  top: 23px;
+  left: 255px;
+}
+.courses-enrolled6 {
+  position: absolute;
+  top: 54px;
+  left: 20px;
+  font-weight: 500;
+}
+.uiux2 {
+  position: relative;
+}
+.illustrator-frame,
+.java-frame,
+.mern-frame,
+.photoshop-frame,
+.python-frame,
+.uiux-frame {
+  position: absolute;
+  top: 85px;
+  left: 30px;
+  border-radius: var(--br-xl);
+  border: 1.5px solid var(--color-lightpink);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-4xs);
+  align-items: center;
+  justify-content: center;
+}
+.illustrator-frame,
+.java-frame,
+.mern-frame,
+.photoshop-frame,
+.python-frame {
+  top: 124px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.illustrator-frame,
+.java-frame,
+.mern-frame,
+.photoshop-frame {
+  top: 85px;
+  left: 96px;
+  align-items: center;
+  justify-content: center;
+}
+.illustrator-frame,
+.java-frame,
+.mern-frame {
+  top: 124px;
+  left: 106px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.illustrator-frame,
+.java-frame {
+  top: 85px;
+  left: 199px;
+}
+.java-frame {
+  top: 124px;
+  left: 172px;
+}
+.div8 {
+  position: absolute;
+  top: 0;
+  left: 140px;
+  font-weight: 600;
+}
+.referral-amount2 {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  font-size: var(--font-size-base);
+}
+.referral-amount-1852 {
+  position: absolute;
+  top: 176px;
+  left: 20px;
+  width: 195px;
+  height: 36px;
+  font-size: var(--font-size-5xl);
+}
+.dhiraj-saxsena-parent {
+  position: relative;
+  border-radius: var(--br-xl);
+  background: linear-gradient(270deg, purple, #ff864c);
+  width: 358px;
+  height: 228px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

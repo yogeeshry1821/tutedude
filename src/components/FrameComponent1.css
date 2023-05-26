@@ -1,0 +1,22 @@
+.div7,
+.wallet-balance1 {
+  position: relative;
+}
+.div7 {
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.wallet-balance-group {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-purple-100);
+  font-family: var(--font-poppins);
+}

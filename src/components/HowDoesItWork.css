@@ -1,0 +1,157 @@
+.how-does-it {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-purple-100);
+}
+.data-child1 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  width: 65px;
+  height: 65px;
+}
+.invite-your-friends1 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 151.22px;
+}
+.share-the-link1 {
+  margin: 0;
+}
+.share-the-link-container1 {
+  position: relative;
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  width: 270.56px;
+}
+.content4,
+.data4 {
+  width: 270.56px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data4 {
+  position: absolute;
+  top: 56px;
+  left: 2px;
+  width: 355.56px;
+  height: 72px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-xl);
+}
+.friend-purchases-any1 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 244.62px;
+}
+.using-your-referral {
+  position: relative;
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  width: 268.76px;
+}
+.content5,
+.data5 {
+  width: 268.76px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data5 {
+  position: absolute;
+  top: 56px;
+  left: 405px;
+  width: 353.76px;
+  height: 72px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-xl);
+}
+.on-total-purchase,
+.you-get {
+  position: relative;
+  display: inline-block;
+}
+.you-get {
+  font-weight: 500;
+  width: 264px;
+}
+.on-total-purchase {
+  color: var(--color-dimgray-200);
+  width: 274.17px;
+}
+.content6,
+.data6 {
+  width: 274.17px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data6 {
+  position: absolute;
+  top: 158px;
+  left: 0;
+  width: 359.17px;
+  height: 72px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-xl);
+}
+.on-his-overall,
+.your-friend-gets {
+  position: relative;
+  display: inline-block;
+}
+.your-friend-gets {
+  font-weight: 500;
+  width: 231px;
+}
+.on-his-overall {
+  color: var(--color-dimgray-200);
+  width: 274px;
+}
+.content7,
+.data7,
+.data8 {
+  width: 274px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data7,
+.data8 {
+  position: absolute;
+  top: 158px;
+  left: 405px;
+  width: 359px;
+  height: 72px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-xl);
+}
+.data8 {
+  top: 260px;
+  left: 0;
+}
+.how-does-it-work1 {
+  position: absolute;
+  top: 407px;
+  left: 187px;
+  width: 764px;
+  height: 332px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

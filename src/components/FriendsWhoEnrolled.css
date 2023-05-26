@@ -1,0 +1,9 @@
+.friends-who-enrolled2 {
+  text-decoration: none;
+  position: absolute;
+  top: 799px;
+  left: 187px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: inherit;
+}

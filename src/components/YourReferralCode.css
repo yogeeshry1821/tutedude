@@ -1,0 +1,37 @@
+.edch541,
+.your-referral-code3 {
+  position: relative;
+  font-weight: 600;
+}
+.edch541 {
+  letter-spacing: 1.5em;
+  font-weight: 500;
+}
+.edch54-container,
+.your-referral-code2 {
+  width: 358px;
+  display: flex;
+  flex-direction: column;
+}
+.edch54-container {
+  border-radius: var(--br-3xs);
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+}
+.your-referral-code2 {
+  position: absolute;
+  top: 179px;
+  left: 766px;
+  height: 105px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-purple-100);
+  font-family: var(--font-poppins);
+}

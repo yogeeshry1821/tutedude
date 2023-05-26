@@ -1,0 +1,65 @@
+.sign-up1 {
+  position: absolute;
+  top: 12px;
+  left: 1000px;
+  width: 128px;
+  height: 50px;
+}
+.my-assignment1 {
+  position: relative;
+  line-height: 123.5%;
+  font-weight: 500;
+}
+.account-circle-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.nav1,
+.profile-name1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.profile-name1 {
+  align-items: flex-end;
+  gap: var(--gap-9xs);
+  color: var(--color-purple-100);
+}
+.nav1 {
+  position: absolute;
+  top: 25px;
+  left: 766px;
+  align-items: flex-start;
+  gap: var(--gap-9xl);
+}
+.hero-image1,
+.image-1-icon1,
+.logo {
+  position: absolute;
+  width: 160px;
+  height: 63px;
+}
+.image-1-icon1 {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.hero-image1,
+.logo {
+  top: 6px;
+  left: 74px;
+}
+.hero-image1 {
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 73px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-purple-200);
+  font-family: var(--font-poppins);
+}
