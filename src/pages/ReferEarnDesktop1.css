@@ -273,7 +273,7 @@
   top: 20px;
   left: 20px;
   font-size: var(--font-size-base);
-  overflow: auto;
+  overflow: hidden;
 }
 
 .sep-2022 {
@@ -561,7 +561,7 @@
   left: 30px;
   width: 266px;
   height: 71px;
-  overflow-y: auto;
+  overflow-y: hidden;
 }
 
 .subhash-mishra-parent {
@@ -570,7 +570,6 @@
   background: linear-gradient(270deg, purple, #ff864c);
   width: 358px;
   height: 228px;
-  overflow: hidden;
   flex-shrink: 0;
 }
 
@@ -769,12 +768,13 @@
 }
 
 .scrollable-frame1 {
+  overflow: hidden;
   position: absolute;
   top: 82px;
   left: 30px;
   width: 266px;
   height: 71px;
-  overflow-y: auto;
+  overflow-y: hidden;
   color: var(--color-dimgray-100);
 }
 
@@ -789,8 +789,11 @@
   justify-content: flex-start;
   gap: var(--gap-xl);
 }
-
+.scrollable::-webkit-scrollbar {
+  display: none;
+}
 .scrollable {
+  overflow-y:hidden;
   position: absolute;
   top: 346px;
   left: 187px;
@@ -805,11 +808,11 @@
 
 .subtract-child,
 .subtract-item {
-  position: absolute;
+  /* position: absolute;
   top: 346px;
   left: 1075px;
   width: 104px;
-  height: 228px;
+  height: 228px; */
 }
 
 .subtract-item {

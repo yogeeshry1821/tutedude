@@ -94,64 +94,26 @@ const ReferEarnDesktop1 = () => {
             <div className="frame-child" />
             <div className="scrollable-frame">
               <div className="all-courses">
-                <div className="uiux-wrapper">
+                
+                <div className="uiux-container">
                   <div className="uiux">UI/UX</div>
                 </div>
-                <div className="python-wrapper">
+                <div className="python-container">
                   <div className="uiux">Python</div>
                 </div>
-                <div className="after-effects-wrapper">
-                  <div className="uiux">After Effects</div>
-                </div>
-                <div className="dsa-wrapper">
-                  <div className="uiux">DSA</div>
-                </div>
-                <div className="data-science-wrapper">
-                  <div className="uiux">Data Science</div>
-                </div>
-                <div className="premiere-pro-wrapper">
-                  <div className="uiux">Premiere Pro</div>
-                </div>
-                <div className="photography-wrapper">
-                  <div className="uiux">Photography</div>
-                </div>
-                <div className="digital-marketing-wrapper">
-                  <div className="uiux">Digital Marketing</div>
-                </div>
-                <div className="financial-modelling-wrapper">
-                  <div className="uiux">Financial Modelling</div>
-                </div>
-                <div className="app-development-wrapper">
-                  <div className="uiux">App Development</div>
-                </div>
-                <div className="web-development-with-phpsql-wrapper">
-                  <div className="uiux">Web Development with PHP/SQL</div>
-                </div>
-                <div className="singing-wrapper">
-                  <div className="uiux">Singing</div>
-                </div>
-                <div className="guitar-wrapper">
-                  <div className="uiux">Guitar</div>
-                </div>
-                <div className="competitive-programming-wrapper">
-                  <div className="uiux">Competitive Programming</div>
-                </div>
-                <div className="react-native-wrapper">
-                  <div className="uiux">React Native</div>
-                </div>
-                <div className="photoshop-wrapper">
+                <div className="photoshop-container">
                   <div className="uiux">Photoshop</div>
                 </div>
-                <div className="mern-wrapper">
+                <div className="mern-container">
                   <div className="uiux">MERN</div>
                 </div>
-                <div className="illustrator-wrapper">
+                <div className="illustrator-container">
                   <div className="uiux">Illustrator</div>
                 </div>
-                <div className="java-wrapper">
+                <div className="java-container">
                   <div className="uiux">Java</div>
                 </div>
-                <div className="c-wrapper">
+                <div className="c-container">
                   <div className="uiux">C++</div>
                 </div>
               </div>
@@ -173,45 +135,6 @@ const ReferEarnDesktop1 = () => {
                 </div>
                 <div className="python-container">
                   <div className="uiux">Python</div>
-                </div>
-                <div className="after-effects-container">
-                  <div className="uiux">After Effects</div>
-                </div>
-                <div className="dsa-container">
-                  <div className="uiux">DSA</div>
-                </div>
-                <div className="data-science-container">
-                  <div className="uiux">Data Science</div>
-                </div>
-                <div className="premiere-pro-container">
-                  <div className="uiux">Premiere Pro</div>
-                </div>
-                <div className="photography-container">
-                  <div className="uiux">Photography</div>
-                </div>
-                <div className="digital-marketing-container">
-                  <div className="uiux">Digital Marketing</div>
-                </div>
-                <div className="financial-modelling-container">
-                  <div className="uiux">Financial Modelling</div>
-                </div>
-                <div className="app-development-container">
-                  <div className="uiux">App Development</div>
-                </div>
-                <div className="web-development-with-phpsql-container">
-                  <div className="uiux">Web Development with PHP/SQL</div>
-                </div>
-                <div className="singing-container">
-                  <div className="uiux">Singing</div>
-                </div>
-                <div className="guitar-container">
-                  <div className="uiux">Guitar</div>
-                </div>
-                <div className="competitive-programming-container">
-                  <div className="uiux">Competitive Programming</div>
-                </div>
-                <div className="react-native-container">
-                  <div className="uiux">React Native</div>
                 </div>
                 <div className="photoshop-container">
                   <div className="uiux">Photoshop</div>
